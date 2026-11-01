@@ -1,0 +1,58 @@
+POKEMON POKOPIA - PORTUGUES DE PORTUGAL (MOD)
+=============================================
+
+Traduz o jogo para portugues de Portugal: dialogos, menus, itens e
+algumas imagens (como o ecra do titulo).
+
+Funciona com: Pokemon Pokopia versao 2.0.1, no emulador Eden.
+(Este mod nao traz o jogo. Precisas de ter o teu proprio jogo.)
+
+ATENCAO: so serve para a versao 2.0.1. Nao uses noutras versoes do jogo:
+os textos podem aparecer trocados ou o jogo pode dar erro / nao arrancar.
+Para ver a tua versao, abre as definicoes do jogo: aparece no canto
+superior direito (por exemplo, "Ver. 2.0.1").
+
+
+DESCARREGAR
+-----------
+Descarrega "Pokopia_PT-PT_Mod.zip" em:
+https://github.com/kytystudio/pokemon-pokopia-pt-pt/releases/latest
+(em "Assets"). Depois extrai o ZIP e segue os passos abaixo.
+
+
+COMO INSTALAR (4 passos)
+------------------------
+
+1) Fecha o jogo e o Eden.
+
+2) Copia a pasta "PT-PT" (a que esta junto deste ficheiro) para esta pasta:
+
+      %APPDATA%\eden\load\0400A3A01EE4C000\
+
+   Dica: carrega nas teclas Windows + R, cola o caminho acima e carrega
+   em Enter. Abre-se a pasta certa. Cola ai a pasta "PT-PT".
+   (Se a pasta "0400A3A01EE4C000" nao existir, cria-a com esse nome.)
+
+3) Abre o eglantine. Clica com o botao direito no Pokopia -> "Configure Game"
+   -> separador "Add-Ons" -> poe visto em "PT-PT" -> OK.
+
+4) Arranca o jogo e poe o idioma em "English".
+   (O mod usa o espaco do ingles para mostrar o portugues.)
+
+Pronto!
+
+
+COMO DESATIVAR
+--------------
+Nas "Configure Game" do jogo (passo 3), tira o visto de "PT-PT".
+Os ficheiros originais do jogo nunca sao alterados.
+
+
+NOTAS
+-----
+- Algumas imagens e botoes (por exemplo, o ecra de escolha de idioma)
+  ainda podem aparecer em ingles.
+- A traducao foi feita de forma automatica e revista; pode haver frases
+  menos felizes.
+- Projeto de fas, nao oficial. Pokemon e Pokopia pertencem aos respetivos
+  detentores.
